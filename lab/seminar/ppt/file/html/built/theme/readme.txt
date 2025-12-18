@@ -1,1 +1,1 @@
-
+这个文件夹用来保存theme，在不是background photo模式下这个theme会有作用，可以加入coding等
